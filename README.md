@@ -1,2 +1,2 @@
 # Bienvenidos!!
-Esta es una Grúia Rápida para Claude en Excel
+Esta es una Guía Rápida para Claude en Excel
